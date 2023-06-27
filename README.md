@@ -5,7 +5,7 @@ Vajravegha Mobility Pvt Ltd based in Mumbai is a full-scale solution provider in
 
 
 
-![Logo]((https://vv-mobility.com/wp-content/uploads/2023/06/VAJRUINO.png))
+![Logo](([https://vv-mobility.com/wp-content/uploads/2023/06/VAJRUINO.png]))
 
 
 
